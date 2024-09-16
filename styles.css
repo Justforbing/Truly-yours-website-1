@@ -1,4 +1,4 @@
-/* General Styles /
+/* General Styles */
 
 body {
    margin: 0;
@@ -17,7 +17,7 @@ h1, h2, h3, h4, h5 {
    margin-top: 0;
 }
 
-/ Header /
+/* Header */
 
 header {
    background: #fff;
@@ -54,7 +54,7 @@ nav ul li a.active, nav ul li a:hover {
    color: #007BFF;
 }
 
-/ Hero Section /
+/* Hero Section */
 
 #hero {
    background: url('images/hero.jpg') no-repeat center center/cover;
@@ -86,7 +86,7 @@ nav ul li a.active, nav ul li a:hover {
    background: #0056b3;
 }
 
-/ Sections /
+/* Sections */
 
 section {
    padding: 60px 0;
@@ -117,7 +117,7 @@ section {
    font-weight: normal;
 }
 
-/ Contact Form /
+/* Contact Form */
 
 #contact form {
    display: flex;
@@ -139,7 +139,7 @@ section {
    margin-top: 30px;
 }
 
-/ Footer */
+/* Footer */
 
 footer {
    background: #333;
